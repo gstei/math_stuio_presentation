@@ -1,0 +1,14 @@
+*.aux
+Math_Studio.bbl
+Math_Studio.bcf
+Math_Studio.blg
+*.log
+Math_Studio.nav
+Math_Studio.out
+Math_Studio.pdf
+Math_Studio.run.xml
+Math_Studio.snm
+*.gz
+Math_Studio.toc
+Figures/Logic.pdf
+*.sta
